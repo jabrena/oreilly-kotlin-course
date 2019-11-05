@@ -1,7 +1,5 @@
 package com.hadihariri.kotlincourse.tidbits
 
-import com.hadihariri.kotlincourse.classes.CustomerKotlin
-
 /**
  * Created by hadihariri on 24/08/16.
  */
@@ -23,8 +21,6 @@ fun main(args: Array<String>) {
     countryInfo.third
 
     val (capital, continent, population) = countryInformation("Madrid")
-
-    val (id, name, email) = CustomerKotlin(1, "Hadi", "email@email.com")
 
     val listCapitalsAndCountries = listOf(Pair("Madrid", "Spain"), "Paris" to "France")
 
