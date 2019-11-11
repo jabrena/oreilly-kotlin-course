@@ -1,4 +1,4 @@
-package lecture02.io.rybalkinsd.kotlinbootcamp.practice
+package lecture02.practice
 
 /**
  * @param a - first integer

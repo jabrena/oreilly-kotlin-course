@@ -1,4 +1,4 @@
-package lecture03.io.rybalkinsd.kotlinbootcamp.practice
+package lecture03.practice
 
 class RawProfile(val rawData: String)
 
